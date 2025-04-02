@@ -34,7 +34,7 @@ func ConvertToESCPos(img image.Image) []byte {
 	const (
 		// printableWidth  = 384 // 2 inches (48mm) at 203 DPI
 		// printableHeight = 192 // 1 inch (24mm) at 203 DPI
-		printableWidth  = 380 // 2 inches (48mm) at 203 DPI
+		printableWidth  = 390 // 2 inches (48mm) at 203 DPI
 		printableHeight = 80 // 1 inch (24mm) at 203 DPI
 	)
 
